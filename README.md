@@ -17,6 +17,7 @@ devolviendo vuelos asociados que satisfagan lo solicitado.
 6. Manejos de EntityFramework.
 7. Logs de aplicación con Serilog.
 8. Implementación de pruebas unitarias con xUnit (Los test también pueden generar errores según versiones de Moq o de MediatR).
+9. Se tomo la decisión de desarrollar la solución de rutas múltiples y de retorno. 
 
 ### Proceso de utilización:
 
