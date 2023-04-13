@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Newshore.TechnicalTest.Transverse/1.0.0": {
+        "dependencies": {
+          "Serilog": "3.0.0-dev-01958"
+        },
+        "runtime": {
+          "Newshore.TechnicalTest.Transverse.dll": {}
+        }
+      },
+      "Serilog/3.0.0-dev-01958": {
+        "runtime": {
+          "lib/net6.0/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newshore.TechnicalTest.Transverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serilog/3.0.0-dev-01958": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8Ql53IEEe88H8eVrZnJMlkzcKViEwu/qO7hebXluslEwL9zPqRErOy/FH2W/n9jUV/QtyRXKROOKEJ803su9ZA==",
+      "path": "serilog/3.0.0-dev-01958",
+      "hashPath": "serilog.3.0.0-dev-01958.nupkg.sha512"
+    }
+  }
+}
